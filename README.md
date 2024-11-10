@@ -1,6 +1,4 @@
-<p align="left">
-  <img src="https://github.com/yourusername.png" width="120px" alt="Profile Picture" style="border-radius: 50%">
-</p>
+
 
 # Hi, I'm Chalbi Youssef <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
@@ -22,7 +20,7 @@
 
 | Most Used Languages | GitHub Stats |
 |---------------------|--------------|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?ChYoussef02=ChYoussef02&show_icons=true&theme=dark) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?ChYoussef02=ChYoussef02&layout=compact&theme=dark) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?ChYoussef02=ChYoussef02&show_icons=true&theme=dark) |
 
 ---
 
