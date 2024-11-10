@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://github.com/ChYoussef02.png" width="120px" alt="Profile Picture" style="border-radius: 50%">
-</p>
-
-<h1 align="center">Hi, I'm Chalbi Youssef <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm Youssef Chalbi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center"><b>ML and Data Science Engineer</b></p>
 
@@ -11,14 +7,13 @@
 ### <p align="center">✨ Skills ✨</p>
 
 <p align="center">
-  <img src="https://assets9.lottiefiles.com/packages/lf20_x62chJ.json" alt="Python" width="50" />
-  <img src="https://assets9.lottiefiles.com/packages/lf20_KWzy4e.json" alt="TensorFlow" width="50" />
-  <img src="https://assets9.lottiefiles.com/packages/lf20_zjpw5e.json" alt="PyTorch" width="50" />
-  <img src="https://assets9.lottiefiles.com/packages/lf20_VK2WTS.json" alt="JavaScript" width="50" />
-  <img src="https://assets9.lottiefiles.com/packages/lf20_j7frdlbx.json" alt="HTML" width="50" />
-  <img src="https://assets9.lottiefiles.com/packages/lf20_i9mxcQ.json" alt="CSS" width="50" />
-  <img src="https://assets9.lottiefiles.com/packages/lf20_9pcn8yji.json" alt="React" width="50" />
-  <img src="https://assets9.lottiefiles.com/packages/lf20_hrr44moh.json" alt="Node.js" width="50" />
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python" width="50" />
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="TensorFlow" width="50" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="JavaScript" width="50" />
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="HTML" width="50" />
+  <img src="https://media.giphy.com/media/SiMNaUIT3fYOE/giphy.gif" alt="CSS" width="50" />
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React" width="50" />
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Git" width="50" />
 </p>
 
 ---
