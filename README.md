@@ -26,5 +26,5 @@
 
 ### <img src="https://img.icons8.com/emoji/48/000000/laptop-emoji.png" width="20"/> Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/https://www.linkedin.com/in/youssef-chalbi-0584a9182/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-youssef-chalbi-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/https://www.linkedin.com/in/youssef-chalbi-0584a9182/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red?style=for-the-badge)](https://yourwebsite.com)
