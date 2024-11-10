@@ -1,17 +1,15 @@
 <h1 align="center">Hi, I'm Youssef Chalbi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<p align="center"><b>ML and Data Science Engineer</b></p>
+<p align="center"><b>Software Engineering Student</b></p>
 
 ---
 
 ### <p align="center">✨ Skills ✨</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python" width="50" />
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="TensorFlow" width="50" />
+ 
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="JavaScript" width="50" />
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="HTML" width="50" />
-  <img src="https://media.giphy.com/media/SiMNaUIT3fYOE/giphy.gif" alt="CSS" width="50" />
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React" width="50" />
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Git" width="50" />
 </p>
