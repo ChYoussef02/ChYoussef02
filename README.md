@@ -12,9 +12,9 @@
  
  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React" width="50" />
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="Node.js" width="50" />
-  <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" alt="Express.js" width="50" />
+  
   <img src="https://media.giphy.com/media/8MG2s1ftPucx30SD2N/giphy.gif" alt="MongoDB" width="50" />
-  <img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" alt="HTML" width="50" />
+  
   <img src="https://media.giphy.com/media/SiMNaUIT3fYOE/giphy.gif" alt="CSS" width="50" />
   <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" alt="JavaScript" width="50" />
 </p>
