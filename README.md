@@ -31,7 +31,7 @@
 
 ---
 
-### <p align="center">📬 Lets Connect  📬</p>
+### <p align="center">📬 Let's Connect  📬</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/youssef-chalbi-0584a9182/">
