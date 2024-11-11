@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/youssef-chalbi-0584a9182/">
-    <img src="https://img.shields.io/badge/LinkedIn-Youssef%20Chalbi-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn?logo=linkedin&style=for-the-badge" alt="LinkedIn">
   </a>
   
 </p>
