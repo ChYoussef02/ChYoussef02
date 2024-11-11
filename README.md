@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/css.gif" alt="CSS" width="50" />
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="Node.js" width="50" />
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Express.js" width="50" />
-  <img src="https://media.giphy.com/media/8MG2s1ftPucx30SD2N/giphy.gif" alt="MongoDB" width="50" />
+  <img src="https://media.giphy.com/media/8MG2s1ftPucx30SD2N/giphy.gif" alt="MongoDB" width="50" />  
 </p>
 
 
