@@ -29,13 +29,11 @@
 
 ---
 
-### <p align="center">📬 Contact Me 📬</p>
+### <p align="center">📬 Lets Connect  📬</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/youssef-chalbi-0584a9182/">
     <img src="https://img.shields.io/badge/LinkedIn-Youssef%20Chalbi-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
   </a>
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-red?style=for-the-badge" alt="Portfolio">
-  </a>
+  
 </p>
