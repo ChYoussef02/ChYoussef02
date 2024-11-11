@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Youssef Chalbi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<p align="center"><b>Software Engineering Student</b></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FF00&center=true&width=435&lines=Software+Engeneering+Student" alt="Typing SVG">
+</p>
 
 ---
 
